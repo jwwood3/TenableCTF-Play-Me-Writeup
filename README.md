@@ -29,6 +29,8 @@ Once you've gotten this far and proved your skill with a leap of faith into the 
 
 .![](https://github.com/jwwood3/TenableCTF-Play-Me-Writeup/blob/main/flagScreen.jpg)
 
+[Video](https://github.com/jwwood3/TenableCTF-Play-Me-Writeup/blob/main/EasyMode.mp4) for the easy method.
+
 ## The Hard Way
 This route is a little more technical. BGB also includes the ability to look at the visual assets of the game under VRAM viewer.
 
